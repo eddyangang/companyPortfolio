@@ -1,1 +1,1 @@
-# compantPortfolio
+# companyPortfolio
